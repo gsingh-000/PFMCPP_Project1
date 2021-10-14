@@ -100,13 +100,13 @@ baby.sleep();
 //  action 3:   baby eats
 baby.eat();
 //  7)
-//  Noun:       elevator
-//  action 1:   the elevator ascends 
-elevator.ascend();
-//  action 2:   the elevator descends
-elevator.descend();
-//  action 3:   the elevator plays music
-elevator.playMusic();
+//  Noun:       hotel staff
+//  action 1:   the hotel staff cleans your room
+hotelStaff.cleanRoom();
+//  action 2:   the hotel staff offers room service
+hotelStaff.roomService();
+//  action 3:   the hotel staff calls to wake you up
+hotelStaff.wakeUpCall();
 //  8)
 //  Noun:       customer
 //  action 1:   the customer buys something
