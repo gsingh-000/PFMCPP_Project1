@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       police
+//  action 1:   police arrests
+police.arrest();
+//  action 2:   police drives
+police.drive();
+//  action 3:   police calls for backup
+police.callBackup();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       athlete
+//  action 1:   the athlete runs
+athlete.run();
+//  action 2:   the athlete jumps
+athlete.jump();
+//  action 3:   the athlete trains
+athlete.train();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       dog
+//  action 1:   the dog barks
+dog.bark();
+//  action 2:   the dog plays
+dog.play();
+//  action 3:   the dog wags its tail
+dog.tailWag();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       pedestrian
+//  action 1:   pedestrian walks
+pedestrian.walk();  
+//  action 2:   pedestrian stops
+pedestrian.stop();
+//  action 3:   pedestrian crosses the road
+pedestrian.crossRoad();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       grandma
+//  action 1:   grandma bakes cookies
+grandma.bakeCookies();
+//  action 2:   grandma gifts money
+grandma.giftMoney();
+//  action 3:   grandma hugs
+grandma.hug();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       baby
+//  action 1:   baby cries
+baby.cry();
+//  action 2:   baby sleeps
+baby.sleep();
+//  action 3:   baby eats
+baby.eat();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       hotel staff
+//  action 1:   the hotel staff cleans your room
+hotelStaff.cleanRoom();
+//  action 2:   the hotel staff offers room service
+hotelStaff.roomService();
+//  action 3:   the hotel staff calls to wake you up
+hotelStaff.wakeUpCall();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       customer
+//  action 1:   the customer buys something
+customer.buy();
+//  action 2:   the customer makes an inquiry
+customer.inquire();
+//  action 3:   the customer argues 
+customer.argue();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       phone
+//  action 1:   the phone makes a call
+phone.call();
+//  action 2:   the phone sends a message
+phone.message();
+//  action 3:   the phone records a video
+phone.videoRecord();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       airplane
+//  action 1:   the airplane flies
+airplane.fly();
+//  action 2:   the airplane crashes
+airplane.crash();
+//  action 3:   the airplane lands
+airplane.land();
 
 
 #endif
